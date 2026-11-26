@@ -1,0 +1,31 @@
+eye — Freeware License
+
+Copyright (c) 2026 dylankyc. All rights reserved.
+
+1. Permission. You may download, install and use the eye software in the binary form
+   distributed at https://github.com/dylankyc/eye ("the Software"), free of charge, for any
+   personal or commercial purpose, on any number of machines.
+
+2. Redistribution. You may redistribute unmodified copies of the official release archives,
+   provided this license is included and no fee is charged for the Software itself.
+
+3. Restrictions. Except as expressly permitted above or by applicable law, you may not:
+   (a) modify the Software or create derivative works of it;
+   (b) reverse engineer, decompile or disassemble the Software;
+   (c) sell, rent, lease or sublicense the Software;
+   (d) remove or alter any copyright or license notices.
+
+4. No source code. No rights to any source code are granted by this license.
+
+5. Ownership. The Software is licensed, not sold. All rights not expressly granted are
+   reserved by the copyright holder.
+
+6. Disclaimer. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+   BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+   OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+7. Third-party components. The Software includes open-source components (Rust crates and
+   JavaScript libraries) that remain under their own licenses.
